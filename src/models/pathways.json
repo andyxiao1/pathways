@@ -1,0 +1,65 @@
+{
+  "cities_environments": {
+    "name": "Cities and Environments",
+    "id": "cities_environments",
+    "color": "#eddbff",
+    "highlight": "#f3e7ff",
+    "description": ""
+  },
+  "wealth_inequality": {
+    "name": "Wealth and Inequality",
+    "id": "wealth_inequality",
+    "color": "#8db9f6",
+    "highlight": "#97baea",
+    "description": ""
+  },
+  "law_society": {
+    "name": "Law and Society",
+    "id": "law_society",
+    "color": "#779f77",
+    "highlight": "#abc9a5",
+    "description": ""
+  },
+  "ideas_beliefs": {
+    "name": "Ideas and Beliefs",
+    "id": "ideas_beliefs",
+    "color": "#61c0bf",
+    "highlight": "#b1f2f1",
+    "description": ""
+  },
+  "slavery_race": {
+    "name": "Slavery and Race",
+    "id": "slavery_race",
+    "color": "#f3cc07",
+    "highlight": "#f6e484",
+    "description": ""
+  },
+  "culture_life": {
+    "name": "Culture and Everyday Life",
+    "id": "culture_life",
+    "color": "#c68642",
+    "highlight": "#e0ac69",
+    "description": ""
+  },
+  "gender_sexuality": {
+    "name": "Gender and Sexuality",
+    "id": "gender_sexuality",
+    "color": "#ff9454",
+    "highlight": "#f29f7a",
+    "description": ""
+  },
+  "war_revolution": {
+    "name": "War and Revolution",
+    "id": "war_revolution",
+    "color": "#e77878",
+    "highlight": "#e58e8e",
+    "description": ""
+  },
+  "global_connections": {
+    "name": "Global Connections and Movements",
+    "id": "global_connections",
+    "color": "#33EC65",
+    "highlight": "#79f099",
+    "description": ""
+  }
+}

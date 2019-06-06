@@ -1,0 +1,10 @@
+.SearchBar {
+  width: 75%;
+  align-self: center;
+  margin-bottom: 10px;
+}
+
+.search .results {
+  overflow-y: auto;
+  max-height: 300px;
+}

@@ -1,0 +1,584 @@
+{
+  "1": {
+    "number": "001",
+    "title": "Making of the Modern World",
+    "link": "http://www.history.upenn.edu/courses/hist001-making-modern-world-42",
+    "selectedPathways": ["global_connections", "ideas_beliefs"]
+  },
+  "9": {
+    "number": "009",
+    "title": "Intro to Digital Humanities",
+    "link": "http://www.history.upenn.edu/courses/hist009-intro-digital-humanities-2",
+    "selectedPathways": ["global_connections", "culture_life"]
+  },
+  "11": {
+    "number": "011",
+    "title": "Deciphering America",
+    "link": "http://www.history.upenn.edu/courses/hist011-deciphering-america-34",
+    "selectedPathways": ["slavery_race", "law_society"]
+  },
+  "12": {
+    "number": "012",
+    "title": "Globalization and its Historical Significance",
+    "link": "http://www.history.upenn.edu/courses/hist012-globalization-and-its-historical-significance-12",
+    "selectedPathways": ["global_connections", "wealth_inequality"]
+  },
+  "23": {
+    "number": "023",
+    "title": "Intro to the Middle East",
+    "link": "http://www.history.upenn.edu/courses/hist023-intro-middle-east-16",
+    "selectedPathways": ["global_connections", "ideas_beliefs"]
+  },
+  "24": {
+    "number": "024",
+    "title": "Intro to Ancient Near East",
+    "link": "http://www.history.upenn.edu/courses/hist012-globalization-and-its-historical-significance-12",
+    "selectedPathways": ["war_revolution", "culture_life"]
+  },
+  "26": {
+    "number": "026",
+    "title": "Ancient Greece",
+    "link": "http://www.history.upenn.edu/courses/hist026-ancient-greece-8",
+    "selectedPathways": ["ideas_beliefs", "law_society"]
+  },
+  "27": {
+    "number": "027",
+    "title": "Ancient Rome",
+    "link": "http://www.history.upenn.edu/courses/hist027-ancient-rome-10",
+    "selectedPathways": ["war_revolution", "cities_environments"]
+  },
+  "30": {
+    "number": "030",
+    "title": "Emergence of Modern Europe",
+    "link": "http://www.history.upenn.edu/courses/hist030-emergence-mod-europe-12",
+    "selectedPathways": ["war_revolution", "ideas_beliefs"]
+  },
+  "31": {
+    "number": "031",
+    "title": "Ascent of Europe",
+    "link": "http://www.history.upenn.edu/courses/hist031-ascent-europe-1450-present",
+    "selectedPathways": ["war_revolution", "law_society"]
+  },
+  "35": {
+    "number": "035",
+    "title": "Modern Biology and Social Implications",
+    "link": "http://www.history.upenn.edu/courses/hist035-modern-biology-and-social-implications-2",
+    "selectedPathways": ["cities_environments", "law_society"]
+  },
+  "36": {
+    "number": "036",
+    "title": "Medicine in History",
+    "link": "http://www.history.upenn.edu/courses/hist036-medicine-history-30",
+    "selectedPathways": ["ideas_beliefs"]
+  },
+  "45": {
+    "number": "045",
+    "title": "Portraits of Old Russia",
+    "link": "http://www.history.upenn.edu/courses/hist045-portraits-old-russia-myth-icon-chronicle-4",
+    "selectedPathways": ["ideas_beliefs", "culture_life"]
+  },
+  "49": {
+    "number": "049",
+    "title": "The Soviet Century 1917-1991",
+    "link": "http://www.history.upenn.edu/courses/hist049-soviet-cent-1917-91-12",
+    "selectedPathways": ["war_revolution", "ideas_beliefs"]
+  },
+  "70": {
+    "number": "070",
+    "title": "Colonial Latin America",
+    "link": "http://www.history.upenn.edu/courses/hist070-colonial-latin-america-38",
+    "selectedPathways": ["war_revolution", "slavery_race"]
+  },
+  "71": {
+    "number": "071",
+    "title": "Latin American Survey",
+    "link": "http://www.history.upenn.edu/courses/hist071-latin-amer-1808-present-0",
+    "selectedPathways": ["war_revolution", "slavery_race"]
+  },
+  "72": {
+    "number": "072",
+    "title": "Intro to Latin America and Latino Studies",
+    "link": "http://www.history.upenn.edu/courses/hist072-intro-lat-am-latino-st-10",
+    "selectedPathways": ["culture_life", "slavery_race"]
+  },
+  "75": {
+    "number": "075",
+    "title": "Africa before 1800",
+    "link": "http://www.history.upenn.edu/courses/hist075-africa-1800-0",
+    "selectedPathways": ["global_connections", "slavery_race"]
+  },
+  "76": {
+    "number": "076",
+    "title": "Africa Since 1800",
+    "link": "http://www.history.upenn.edu/courses/hist076-africa-1800-86",
+    "selectedPathways": ["slavery_race", "wealth_inequality"]
+  },
+  "78": {
+    "number": "078",
+    "title": "The African Diaspora",
+    "link": "http://www.history.upenn.edu/courses/hist078-african-diaspora-global-dimensions-0",
+    "selectedPathways": ["global_connections", "slavery_race"]
+  },
+  "81": {
+    "number": "081",
+    "title": "History of the Middle East Since 1800",
+    "link": "http://www.history.upenn.edu/courses/hist081-hist-mid-east-1800-74",
+    "selectedPathways": ["war_revolution", "global_connections"]
+  },
+  "85": {
+    "number": "085",
+    "title": "India: Culture and Society",
+    "link": "http://www.history.upenn.edu/courses/hist085-india-culture-society-14",
+    "selectedPathways": ["law_society", "culture_life"]
+  },
+  "89": {
+    "number": "089",
+    "title": "Intro to Modern India",
+    "link": "http://www.history.upenn.edu/courses/hist089-intro-modern-india-4",
+    "selectedPathways": ["war_revolution", "law_society"]
+  },
+  "91": {
+    "number": "091",
+    "title": "Modern Japanese History",
+    "link": "http://www.history.upenn.edu/courses/hist091-modern-japanese-history-10",
+    "selectedPathways": ["war_revolution", "law_society"]
+  },
+  "92": {
+    "number": "092",
+    "title": "Seoul Palimpset",
+    "link": "http://www.history.upenn.edu/courses/hist092-seoul-palimpset-0",
+    "selectedPathways": ["ideas_beliefs", "culture_life"]
+  },
+  "97": {
+    "number": "097",
+    "title": "History of Modern China",
+    "link": "http://www.history.upenn.edu/courses/hist097-history-modern-china-46",
+    "selectedPathways": ["war_revolution", "ideas_beliefs"]
+  },
+  "98": {
+    "number": "098",
+    "title": "Intro to Korean Civilization",
+    "link": "http://www.history.upenn.edu/courses/hist098-intro-korean-civ-16",
+    "selectedPathways": ["law_society", "culture_life"]
+  },
+  "108": {
+    "number": "108",
+    "title": "American Origins",
+    "link": "http://www.history.upenn.edu/courses/hist108-american-origins-9",
+    "selectedPathways": ["war_revolution", "slavery_race"]
+  },
+  "118": {
+    "number": "118",
+    "title": "Witchcraft and Possession",
+    "link": "http://www.history.upenn.edu/courses/hist118-witchcraft-possession-16",
+    "selectedPathways": ["ideas_beliefs", "gender_sexuality"]
+  },
+  "123": {
+    "number": "123",
+    "title": "Economic History of Europe",
+    "link": "http://www.history.upenn.edu/courses/hist123-economic-hist-euro-i-8",
+    "selectedPathways": ["wealth_inequality", "law_society"]
+  },
+  "130": {
+    "number": "130",
+    "title": "Globalization in Historical Perspective",
+    "link": "http://www.history.upenn.edu/courses/hist130-globalization-historical-perspective-0",
+    "selectedPathways": ["global_connections"]
+  },
+  "131": {
+    "number": "131",
+    "title": "Financial Meltdown, Past and Present",
+    "link": "http://www.history.upenn.edu/courses/hist131-financial-meltdown-past-and-present-2",
+    "selectedPathways": ["wealth_inequality"]
+  },
+  "133": {
+    "number": "133",
+    "title": "Free Speech and Censorship",
+    "link": "http://www.history.upenn.edu/courses/hist133-free-speech-censorship-2",
+    "selectedPathways": ["law_society", "ideas_beliefs"]
+  },
+  "135": {
+    "number": "135",
+    "title": "Cold War: Global History",
+    "link": "http://www.history.upenn.edu/courses/hist135-cold-war-global-history-38",
+    "selectedPathways": ["war_revolution", "global_connections"]
+  },
+  "138": {
+    "number": "138",
+    "title": "War and Genocide in Twentieth Century Europe",
+    "link": "http://www.history.upenn.edu/courses/hist138-war-and-genocide-twentieth-century-europe-0",
+    "selectedPathways": ["war_revolution", "ideas_beliefs"]
+  },
+  "140": {
+    "number": "140",
+    "title": "Medieval and Early Modern Jewry",
+    "link": "http://www.history.upenn.edu/courses/hist140-med-early-mod-jewry-8",
+    "selectedPathways": ["culture_life", "ideas_beliefs"]
+  },
+  "141": {
+    "number": "141",
+    "title": "Jews in the Modern World",
+    "link": "http://www.history.upenn.edu/courses/hist141-jews-modern-world-12",
+    "selectedPathways": ["ideas_beliefs", "global_connections"]
+  },
+  "143": {
+    "number": "143",
+    "title": "Foundations of European Thought: From Rome to the Renaissance",
+    "link": "http://www.history.upenn.edu/courses/hist143-foundations-european-thought-rome-renaissance-2",
+    "selectedPathways": ["ideas_beliefs"]
+  },
+  "144": {
+    "number": "144",
+    "title": "Foundations of Modern Thought",
+    "link": "http://www.history.upenn.edu/courses/hist144-foundations-mod-thought-2",
+    "selectedPathways": ["ideas_beliefs", "law_society"]
+  },
+  "145": {
+    "number": "145",
+    "title": "Discover the Middle Ages",
+    "link": "http://www.history.upenn.edu/courses/hist145-discover-middle-ages-2",
+    "selectedPathways": ["war_revolution", "culture_life"]
+  },
+  "148": {
+    "number": "148",
+    "title": "Warriors, Concubines, and Converts: The Ottoman Empire in the Middle East and Europe",
+    "link": "http://www.history.upenn.edu/courses/hist148-warriorsconcubinesand-converts-ottoman-empire-mid-east-euro-0",
+    "selectedPathways": ["law_society", "war_revolution"]
+  },
+  "151": {
+    "number": "151",
+    "title": "Race, Space, and Place in American History",
+    "link": "http://www.history.upenn.edu/courses/hist151-race-space-and-place-american-history-0",
+    "selectedPathways": ["slavery_race", "cities_environments"]
+  },
+  "152": {
+    "number": "152",
+    "title": "Liquid Histories and Floating Archives",
+    "link": "http://www.history.upenn.edu/courses/hist152-liquid-histories-and-floating-archives-0",
+    "selectedPathways": ["cities_environments"]
+  },
+  "153": {
+    "number": "153",
+    "title": "The Transformation of Urban America",
+    "link": "http://www.history.upenn.edu/courses/hist153-transformation-urban-america-10",
+    "selectedPathways": ["wealth_inequality", "cities_environments"]
+  },
+  "155": {
+    "number": "155",
+    "title": "Intro to Asian American History",
+    "link": "http://www.history.upenn.edu/courses/hist155-intro-asian-amer-hist-18",
+    "selectedPathways": ["culture_life", "global_connections"]
+  },
+  "162": {
+    "number": "162",
+    "title": "The American West",
+    "link": "http://www.history.upenn.edu/courses/hist162-american-west-9",
+    "selectedPathways": ["war_revolution", "global_connections"]
+  },
+  "163": {
+    "number": "163",
+    "title": "Modern American Culture",
+    "link": "http://www.history.upenn.edu/courses/hist163-modern-american-culture-24",
+    "selectedPathways": ["culture_life", "global_connections"]
+  },
+  "168": {
+    "number": "168",
+    "title": "History of American Law to 1877",
+    "link": "http://www.history.upenn.edu/courses/hist168-hist-amer-law-1877-16",
+    "selectedPathways": ["slavery_race", "law_society"]
+  },
+  "169": {
+    "number": "169",
+    "title": "History of American Law",
+    "link": "http://www.history.upenn.edu/courses/hist169-history-american-law-14",
+    "selectedPathways": ["law_society"]
+  },
+  "174": {
+    "number": "174",
+    "title": "Capitalism, Socialism, and Crisis in Twentieth-Century Americas",
+    "link": "http://www.history.upenn.edu/courses/hist174-capitalism-socialism-crisis-twentieth-century-americas-2",
+    "selectedPathways": ["ideas_beliefs", "wealth_inequality"]
+  },
+  "175": {
+    "number": "175",
+    "title": "History of Brazil",
+    "link": "http://www.history.upenn.edu/courses/hist175-history-brazil-0",
+    "selectedPathways": ["slavery_race", "culture_life"]
+  },
+  "176": {
+    "number": "176",
+    "title": "African American History",
+    "link": "http://www.history.upenn.edu/courses/hist176-afro-amer-hist-14",
+    "selectedPathways": ["slavery_race", "culture_life"]
+  },
+  "177": {
+    "number": "177",
+    "title": "African American History 1876 to the Present",
+    "link": "http://www.history.upenn.edu/courses/hist177-afro-amer-hist-1876-pres-14",
+    "selectedPathways": ["slavery_race", "culture_life"]
+  },
+  "187": {
+    "number": "187",
+    "title": "Africa and the Transatlantic Slave Trade",
+    "link": "http://www.history.upenn.edu/courses/hist187-africa-and-transatlantic-slave-trade-0",
+    "selectedPathways": ["slavery_race", "global_connections"]
+  },
+  "201": {
+    "number": "201",
+    "title": "The History of Economic Thought to Adam Smith",
+    "link": "http://www.history.upenn.edu/courses/hist201-history-economic-thought-adam-smith-0",
+    "selectedPathways": ["ideas_beliefs", "wealth_inequality"]
+  },
+  "202": {
+    "number": "202",
+    "title": "Modern Spain From Civil War to Democracy, 1930-1977",
+    "link": "http://www.history.upenn.edu/courses/hist202-modern-spain-civil-war-democracy-1930-1977-0",
+    "selectedPathways": ["law_society", "war_revolution"]
+  },
+  "209": {
+    "number": "209",
+    "title": "Industrial Metropolis",
+    "link": "http://www.history.upenn.edu/courses/hist209-industrial-metropolis-15",
+    "selectedPathways": ["cities_environments"]
+  },
+  "210": {
+    "number": "210",
+    "title": "The City",
+    "link": "http://www.history.upenn.edu/courses/hist210-city-17",
+    "selectedPathways": ["law_society", "cities_environments"]
+  },
+  "211": {
+    "number": "211",
+    "title": "The Enlightenment",
+    "link": "http://www.history.upenn.edu/courses/hist211-enlightenment-4",
+    "selectedPathways": ["ideas_beliefs"]
+  },
+  "212": {
+    "number": "212",
+    "title": "The Great War in Memoir and Memory",
+    "link": "http://www.history.upenn.edu/courses/hist212-great-war-memoir-and-memory-0",
+    "selectedPathways": ["ideas_beliefs", "war_revolution"]
+  },
+  "216": {
+    "number": "216",
+    "title": "Religion and Colonial Rule in Africa",
+    "link": "http://www.history.upenn.edu/courses/hist216-religion-colonial-rule-africa-4",
+    "selectedPathways": ["slavery_race", "ideas_beliefs"]
+  },
+  "220": {
+    "number": "220",
+    "title": "Russia and the West",
+    "link": "http://www.history.upenn.edu/courses/hist220-russia-and-west-15",
+    "selectedPathways": ["global_connections", "war_revolution"]
+  },
+  "230": {
+    "number": "230",
+    "title": "Florence in History",
+    "link": "http://www.history.upenn.edu/courses/hist230-florence-history-3",
+    "selectedPathways": ["cities_environments"]
+  },
+  "231": {
+    "number": "231",
+    "title": "History of Baseball",
+    "link": "http://www.history.upenn.edu/courses/hist231-history-baseball-1840-present-0",
+    "selectedPathways": ["culture_life"]
+  },
+  "232": {
+    "number": "232",
+    "title": "Iran, Iraq, and the Persian Gulf",
+    "link": "http://www.history.upenn.edu/courses/hist232-iran-iraq-and-persian-gulf-0",
+    "selectedPathways": ["war_revolution", "wealth_inequality"]
+  },
+  "234": {
+    "number": "234",
+    "title": "Abolitionism: A Global History",
+    "link": "http://www.history.upenn.edu/courses/hist234-abolitionism-global-history-0",
+    "selectedPathways": ["slavery_race", "law_society"]
+  },
+  "241": {
+    "number": "241",
+    "title": "Performing History",
+    "link": "http://www.history.upenn.edu/courses/hist241-performing-history-0",
+    "selectedPathways": ["culture_life"]
+  },
+  "243": {
+    "number": "243",
+    "title": "The American Women's Movement and Lgbt Liberation, 1960s-1980s",
+    "link": "https://www.history.upenn.edu/courses/hist243-american-womens-movement-and-lgbt-liberation-1960s-1980s-0",
+    "selectedPathways": ["gender_sexuality", "global_connections"]
+  },
+  "248": {
+    "number": "248",
+    "title": "Haitian Revolution",
+    "link": "http://www.history.upenn.edu/courses/hist248-haitian-revolution-0",
+    "selectedPathways": ["slavery_race", "war_revolution"]
+  },
+  "253": {
+    "number": "253",
+    "title": "Freud",
+    "link": "https://www.history.upenn.edu/courses/hist253-freud-4",
+    "selectedPathways": ["ideas_beliefs"]
+  },
+  "255": {
+    "number": "255",
+    "title": "Thinking about Capitalism",
+    "link": "http://www.history.upenn.edu/courses/hist255-thinking-about-capitalism-0",
+    "selectedPathways": ["ideas_beliefs", "wealth_inequality"]
+  },
+  "275": {
+    "number": "275",
+    "title": "Faces of Islam in Africa",
+    "link": "http://www.history.upenn.edu/courses/hist275-faces-islam-africa-6",
+    "selectedPathways": ["ideas_beliefs", "culture_life"]
+  },
+  "276": {
+    "number": "276",
+    "title": "Japan: Age of the Samura",
+    "link": "https://www.history.upenn.edu/courses/hist276-japanage-samurai-6",
+    "selectedPathways": ["war_revolution", "culture_life"]
+  },
+  "277": {
+    "number": "277",
+    "title": "Shamans to Shoguns",
+    "link": "http://www.history.upenn.edu/courses/hist277-shamans-shoguns-0",
+    "selectedPathways": ["culture_life", "war_revolution"]
+  },
+  "306": {
+    "number": "306",
+    "title": "Gunpowder, Art, & Diplomacy: Islamic Empires in the Early Modern World",
+    "link": "https://www.history.upenn.edu/courses/hist306-gunpowder-art-diplomacy-islamic-empires-early-modern-world-0",
+    "selectedPathways": ["war_revolution", "law_society"]
+  },
+  "307": {
+    "number": "307",
+    "title": "Love, Lust, and Violence in the Middle Ages",
+    "link": "http://www.history.upenn.edu/courses/hist307-love-lust-and-violence-middle-ages-2",
+    "selectedPathways": ["culture_life", "gender_sexuality"]
+  },
+  "308": {
+    "number": "308",
+    "title": "Renaissance Europe",
+    "link": "https://www.history.upenn.edu/courses/hist308-renaissance-europe-7",
+    "selectedPathways": ["ideas_beliefs", "law_society"]
+  },
+  "309": {
+    "number": "309",
+    "title": "Age of Reformation",
+    "link": "http://www.history.upenn.edu/courses/hist307-love-lust-and-violence-middle-ages-2",
+    "selectedPathways": ["ideas_beliefs", "war_revolution"]
+  },
+  "312": {
+    "number": "312",
+    "title": "Britain's Century of Revolution",
+    "link": "https://www.history.upenn.edu/courses/hist312-britains-century-rev-4",
+    "selectedPathways": ["war_revolution", "ideas_beliefs"]
+  },
+  "313": {
+    "number": "313",
+    "title": "The French Revolution and the Origins of Modern Politics",
+    "link": "https://www.history.upenn.edu/courses/hist313-french-revolution-and-origins-modern-politics-2",
+    "selectedPathways": ["war_revolution", "ideas_beliefs"]
+  },
+  "314": {
+    "number": "314",
+    "title": "Victorian Britain: Spaces, Places, and Pests",
+    "link": "http://www.history.upenn.edu/courses/hist314-victorian-britain-spaces-places-and-pests-2",
+    "selectedPathways": ["cities_environments", "culture_life"]
+  },
+  "331": {
+    "number": "331",
+    "title": "American DIplomatic History since 1776",
+    "link": "http://www.history.upenn.edu/courses/hist331-am-diplo-hist-1776-13",
+    "selectedPathways": ["global_connections", "war_revolution"]
+  },
+  "344": {
+    "number": "344",
+    "title": "Twentieth-Century European Intellectual History",
+    "link": "http://www.history.upenn.edu/courses/hist344-20th-cent-eur-intel-hist-10",
+    "selectedPathways": ["ideas_beliefs"]
+  },
+  "346": {
+    "number": "346",
+    "title": "Bodies, Race and Rights: Sex and Citizenship in Modern American History",
+    "link": "https://www.history.upenn.edu/courses/hist346-bodies-race-and-rights-sex-and-citizenship-modern-american-history-0",
+    "selectedPathways": ["wealth_inequality", "slavery_race"]
+  },
+  "356": {
+    "number": "356",
+    "title": "Age of Reagan: U.S. Politics and Society, 1960 - 2001",
+    "link": "http://www.history.upenn.edu/courses/hist356-age-reagan-us-politics-and-society-1960-2001-0",
+    "selectedPathways": ["wealth_inequality", "law_society"]
+  },
+  "367": {
+    "number": "367",
+    "title": "Philadelphia 1700-2000",
+    "link": "https://www.history.upenn.edu/courses/hist367-philadelphia-1700-2000-21",
+    "selectedPathways": ["cities_environments"]
+  },
+  "372": {
+    "number": "372",
+    "title": "The History of Foreign Aid in Africa",
+    "link": "https://www.history.upenn.edu/courses/hist372-history-foreign-aid-africa-2",
+    "selectedPathways": ["wealth_inequality", "global_connections"]
+  },
+  "376": {
+    "number": "376",
+    "title": "History of Health and Healing in Africa",
+    "link": "https://www.history.upenn.edu/courses/hist376-history-health-and-healing-africa-0",
+    "selectedPathways": ["culture_life"]
+  },
+  "394": {
+    "number": "394",
+    "title": "China and the World: Modern",
+    "link": "http://www.history.upenn.edu/courses/hist394-china-world-mod-2",
+    "selectedPathways": ["global_connections"]
+  },
+  "395": {
+    "number": "395",
+    "title": "East Asian Diplomacy",
+    "link": "http://www.history.upenn.edu/courses/hist395-east-asian-diplomacy-37",
+    "selectedPathways": ["war_revolution", "law_society"]
+  },
+  "411": {
+    "number": "411",
+    "title": "The Mediterranean and the World, 1450-1700",
+    "link": "https://www.history.upenn.edu/courses/hist411-mediterranean-and-world-1450-1700-0",
+    "selectedPathways": ["war_revolution", "global_connections"]
+  },
+  "412": {
+    "number": "412",
+    "title": "Chinese Foreign Policy",
+    "link": "http://www.history.upenn.edu/courses/hist412-chinese-foreign-policy-0",
+    "selectedPathways": ["global_connections", "law_society"]
+  },
+  "436": {
+    "number": "436",
+    "title": "Love, Anger, Madness: History and Silences in Modern Haiti",
+    "link": "http://www.history.upenn.edu/courses/hist436-loveangermadness-love-anger-madness-history-and-silences-modern-haiti-0",
+    "selectedPathways": ["culture_life", "gender_sexuality"]
+  },
+  "440": {
+    "number": "440",
+    "title": "Perspectives on Urban Poverty",
+    "link": "http://www.history.upenn.edu/courses/hist440-perspectives-urban-poverty-8",
+    "selectedPathways": ["cities_environments", "wealth_inequality"]
+  },
+  "447": {
+    "number": "447",
+    "title": "Histories of the Information Economy",
+    "link": "https://www.history.upenn.edu/courses/hist447-histories-information-economy-2",
+    "selectedPathways": ["ideas_beliefs"]
+  },
+  "451": {
+    "number": "451",
+    "title": "US and the World Since 1898",
+    "link": "https://www.history.upenn.edu/courses/hist451-us-and-world-1898-4",
+    "selectedPathways": ["war_revolution", "wealth_inequality"]
+  },
+  "463": {
+    "number": "463",
+    "title": "History of American Education",
+    "link": "https://www.history.upenn.edu/courses/hist463-history-american-education-0",
+    "selectedPathways": ["ideas_beliefs", "law_society"]
+  }
+}
