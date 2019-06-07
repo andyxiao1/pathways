@@ -3,19 +3,19 @@ import Graph from 'react-graph-vis';
 import * as actions from '../actions/index';
 
 const networkOptions = {
-  autoResize: false,
+  autoResize: true,
   width: '100%',
   height: '100%',
-  physics: {
-    forceAtlas2Based: {
-      gravitationalConstant: -50,
-      springLength: 200,
-      springConstant: 0.9,
-      centralGravity: 0.02,
-      avoidOverlap: 0.999999
-    },
-    solver: 'forceAtlas2Based'
-  },
+  // physics: {
+  //   forceAtlas2Based: {
+  //     gravitationalConstant: -50,
+  //     springLength: 200,
+  //     springConstant: 0.9,
+  //     centralGravity: 0.02,
+  //     avoidOverlap: 0.999999
+  //   },
+  //   solver: 'forceAtlas2Based'
+  // },
   interaction: {
     hoverConnectedEdges: false,
     hover: true,
@@ -68,10 +68,6 @@ const events = {
   }
 };
 
-const belongsToPathway = (courses, root, edge) => {
-  return courses[root].selectedPathways.includes(edge.pathway);
-};
-
 class Network extends React.Component {
   constructor(props) {
     super(props);
@@ -122,6 +118,10 @@ class Network extends React.Component {
     }
   }
 
+  belongsToPathway = (courses, root, edge) => {
+    return courses[root].selectedPathways.includes(edge.pathway);
+  };
+
   onLegendSelect(pathway) {
     const edges = this.props.store.getState().graph.edges;
     // console.log(edges);
@@ -163,7 +163,7 @@ class Network extends React.Component {
 
         adjacent.forEach(edge => {
           const edgeObject = graph.edges[edge];
-          if (belongsToPathway(courses, root, edgeObject)) {
+          if (this.belongsToPathway(courses, root, edgeObject)) {
             connectedEdges.add(edge);
           }
         });

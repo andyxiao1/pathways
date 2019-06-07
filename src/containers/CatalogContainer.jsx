@@ -18,7 +18,6 @@ export default class CatalogContainer extends Component {
   }
 
   componentDidUpdate() {
-    console.log(this.catalogStart);
     this.catalogStart.current.scrollIntoView({ behavior: 'smooth' });
   }
 
@@ -285,7 +284,7 @@ export default class CatalogContainer extends Component {
       );
     } else {
       // return <Flexbox height="200vh" width="100vw" flexDirection="column" />;
-      return <div />;
+      return <div ref={this.catalogStart} />;
     }
   }
 }

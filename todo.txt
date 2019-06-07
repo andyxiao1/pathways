@@ -1,0 +1,15 @@
+todo
+
+important
+-fix vis.js
+-get rid of extraneous dependencies
+  -react-reveal
+  -react-pose
+  -react-css-transition-replace
+  -12 dependencies to 9 dependencies
+
+later
+-fix search bar config to weigh course names more heavily
+-scrolling issue
+-move fonts
+-fix background color changing
