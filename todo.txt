@@ -9,7 +9,9 @@ important
   -12 dependencies to 9 dependencies
 
 later
--fix search bar config to weigh course names more heavily
+-fix search bar config to weigh course names more heavily (ex 'hist-097' top choice is hist-091)
 -scrolling issue
--move fonts
--fix background color changing
+-move fonts from index.html to import
+-fix background color changing after a course is selected
+-scrolling doesn't work on safari, scrollIntoView might not be supported by all browsers try to finnd work around
+-look into d3 for alternate course visualizations
