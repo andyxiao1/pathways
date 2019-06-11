@@ -81,6 +81,7 @@ const constructEdgeSetFromPathwayLists = (pathwayLists, pathways) => {
 
       edges.push(edge);
       edgeId++;
+      prev = curr;
     });
   });
   return edges;

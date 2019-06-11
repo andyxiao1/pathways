@@ -6,6 +6,16 @@ const networkOptions = {
   autoResize: true,
   width: '100%',
   height: '100%',
+  physics: {
+    forceAtlas2Based: {
+      gravitationalConstant: -50,
+      centralGravity: 0.02,
+      springLength: 100,
+      springConstant: 0.3,
+      avoidOverlap: 0.3
+    },
+    solver: 'forceAtlas2Based'
+  },
   // physics: {
   //   forceAtlas2Based: {
   //     gravitationalConstant: -50,
@@ -27,6 +37,12 @@ const networkOptions = {
     tooltipDelay: 100
   },
   nodes: {
+    // shape: 'circle',
+    // widthConstraint: 45,
+    // heightConstraint: 45,
+    // font: {
+    //   size: 20
+    // }
     shape: 'circle',
     widthConstraint: 45,
     heightConstraint: 45,
@@ -223,6 +239,8 @@ class Network extends React.Component {
   render() {
     // console.log('network rendered');
     // console.log(this.state.network);
+    console.log(this.props.store.getState().graph);
+
     return (
       <Graph
         graph={this.props.store.getState().graph}
