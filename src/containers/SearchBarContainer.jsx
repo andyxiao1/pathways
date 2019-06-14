@@ -42,8 +42,24 @@ export default class SearchBarContainer extends Component {
       distance: 100,
       maxPatternLength: 32,
       minMatchCharLength: 2,
-      keys: ['title', 'description', 'selectedPathways']
+      keys: [
+        { name: 'title', weight: 0.6 },
+        { name: 'description', weight: 0.2 },
+        { name: 'selectedPathways', weight: 0.2 }
+      ]
     };
+
+    // const options = {
+    //   shouldSort: true,
+    //   tokenize: false,
+    //   includeMatches: true,
+    //   threshold: 0,
+    //   location: 0,
+    //   distance: 0,
+    //   maxPatternLength: 32,
+    //   minMatchCharLength: 1,
+    //   keys: ['title']
+    // };
 
     const fuse = new Fuse(coursesArray, options);
     this.setState({ fuse });

@@ -13,7 +13,7 @@ export default class LegendContainer extends Component {
 
   renderPathwayLegends = () => {
     const pathways = this.props.store.getState().pathways;
-    let markup = Object.keys(pathways).map((pathway, index) => {
+    const markup = Object.keys(pathways).map((pathway, index) => {
       return (
         <Legend
           store={this.props.store}

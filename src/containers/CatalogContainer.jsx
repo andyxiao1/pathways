@@ -7,6 +7,7 @@ import ReactCSSTransitionReplace from 'react-css-transition-replace';
 const header = 'Course Information';
 
 export default class CatalogContainer extends Component {
+  state = { prerender: true };
   catalogStart = React.createRef();
 
   componentWillMount() {
@@ -18,7 +19,10 @@ export default class CatalogContainer extends Component {
   }
 
   componentDidUpdate() {
-    this.catalogStart.current.scrollIntoView({ behavior: 'smooth' });
+    if (this.state.prerender) {
+      this.catalogStart.current.scrollIntoView({ behavior: 'smooth' });
+      this.setState({ prerender: false });
+    }
   }
 
   sortConnectedNodes = () => {
