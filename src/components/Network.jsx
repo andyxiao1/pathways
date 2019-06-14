@@ -239,7 +239,7 @@ class Network extends React.Component {
   render() {
     // console.log('network rendered');
     // console.log(this.state.network);
-    console.log(this.props.store.getState().graph);
+    // console.log(this.props.store.getState().graph);
 
     return (
       <Graph
