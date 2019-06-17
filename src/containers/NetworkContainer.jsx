@@ -15,7 +15,7 @@ export default class NetworkContainer extends Component {
   render() {
     //  console.log(this.props.store.getState().graph);
     return (
-      <Flexbox flex="6" height="100vh" className="NetworkContainer">
+      <Flexbox className="NetworkContainer">
         <Network store={this.props.store} />
       </Flexbox>
     );

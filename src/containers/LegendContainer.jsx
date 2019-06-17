@@ -11,7 +11,7 @@ export default class LegendContainer extends Component {
     );
   }
 
-  renderPathwayLegends = () => {
+  renderPathwayLegends() {
     const pathways = this.props.store.getState().pathways;
     const markup = Object.keys(pathways).map((pathway, index) => {
       return (
@@ -28,8 +28,7 @@ export default class LegendContainer extends Component {
   render() {
     return (
       <Flexbox
-        flexDirection="column"
-        height="100vh"
+        flexDirection="row"
         justifyContent="center"
         flex="1"
       >

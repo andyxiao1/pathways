@@ -28,6 +28,7 @@
   "dependencies": {
     "flexbox-react": "^4.4.0",
     "fuse.js": "^3.4.5",
+    "materialize-css": "^1.0.0-rc.2",
     "react": "^16.8.6",
     "react-css-transition-replace": "^3.0.3",
     "react-dom": "^16.8.6",

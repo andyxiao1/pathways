@@ -18,3 +18,12 @@
   ); /* Chrome10+,Safari5.1+ */
   /* background: linear-gradient(#01256e, #95001a, #01256e); */
 }
+
+.fixed {
+  flex-grow: 1;
+  transition: flex-grow 1000ms linear;
+}
+
+.removed {
+  flex-grow: 0.00001;
+}

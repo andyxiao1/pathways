@@ -25,7 +25,7 @@ export default class CatalogContainer extends Component {
     }
   }
 
-  sortConnectedNodes = () => {
+  sortConnectedNodes() {
     const { selected, courses } = this.state;
     let coursePathways = {};
 

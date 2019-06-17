@@ -52,8 +52,6 @@ export default class Legend extends Component {
       <Flexbox
         alignItems="center"
         flexDirection="row"
-        height={'100px'}
-        width={'200px'}
       >
         <Flexbox marginLeft={'10px'}>
           <InnerCircle
