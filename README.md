@@ -1,10 +1,10 @@
 # Pathways Project
 University of Pennsylvania History Department
 
-Codebase has been moved to [here](https://github.com/loganmay/upenn-history-pathways/tree/image-grid)
+Codebase has been moved
 
-See the up to date demo [here](https://loganmay.com/projects/pathways-grid/index.html)
+See the published version [here](https://pathways.history.upenn.edu/)
 
-See the old version [here](https://history-pathways.herokuapp.com)
+See an old version [here](https://history-pathways.herokuapp.com)
 
 
